@@ -1,0 +1,18 @@
+body {
+  color: #fff;
+  height: 100vh;
+  max-width: 100vw;
+}
+
+.CodeMirror {
+  height: 340px !important;
+  color: #fff;
+}
+
+.CodeMirror-gutters {
+  background: #1d1e22;
+}
+
+.CodeMirror-scroll {
+  background: #1d1e22;
+}
